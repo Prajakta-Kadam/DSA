@@ -1,0 +1,9 @@
+def insert(arr, element):
+  arr.append(element)
+arr=[12,20,13,35,18]
+key=15
+print("Array before inserting element:")
+print(arr)
+insert(arr,key)
+print("Array after inserting element:")
+print(arr)
