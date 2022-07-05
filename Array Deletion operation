@@ -1,0 +1,7 @@
+arr=[12,20,13,35,18]
+key=13
+print("Array before removing element:")
+print(arr)
+arr.remove(key)
+print("Array after removing element:")
+print(arr)
